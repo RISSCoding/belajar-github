@@ -1,0 +1,6 @@
+Daftar makanan favorit
+  1. Mie kuah
+  2. Mie rendang
+  3. Mie ayam bawang
+  4. Indomie original
+  5. Mie empal gentong
